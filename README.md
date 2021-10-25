@@ -11,5 +11,6 @@ No final das questões verifico o valor final da variável receptora desta soma 
 Caso retorne grandes chances de estar infectado ou então com gripe utilizo o **.format()** e uso os dados da API para informar que ele deve procurar um médico/assistência na cidade/bairro que reside.
 
 ## Autor:
-Wellington Oliveira.
+Wellington Oliveira,
+
 Linkedin: https://www.linkedin.com/in/wellingtonsoliveira/
