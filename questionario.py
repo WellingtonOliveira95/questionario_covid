@@ -138,5 +138,7 @@ def main():
     elif resp >= 0:
         print('\n{}, em uma escala de 1 a 6 você obteve {}. você pode estar resfriado pois seus sintomas são poucos, mas mantenha o cuidado!\n'.format(nome, resp))
 
+    print('Desenvolvido por Wellington Oliveira')
+
 if __name__ == '__main__':
     main()
